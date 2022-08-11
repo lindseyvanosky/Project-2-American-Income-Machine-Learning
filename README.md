@@ -41,9 +41,10 @@ Data columns (total 15 columns):
 ## Results
 - Now with a better understanding of the data set, I was able to create some explanatory visuals to tell a story. Primarily I was interested in how race and education played a part in someone's earning potential. I was able to plot the following visuals to begin investigating. 
 
-#### Line Graph: Salaries by Race
-![line graph - salaries by race](https://user-images.githubusercontent.com/105459145/183309520-bc872530-875a-4635-8458-4ffcf688412e.png)
-> This line graph plots the count of salaries both over and under 50K by race. At first plot, it looked like there was a massive disparity of >50K by race. It looked as if salaries over 50K were disproprtionally awarded to white people. This isn't necessarily untrue, but I found it important to plot the line of total answers by race so we can see who this data actually represents. Adding this line did highlight that the majority of our data was from white people. Therefore my first recommendation - more data!
+#### Bar Graph of Age
+![age](https://user-images.githubusercontent.com/105459145/184261091-6e7487ad-2554-42a7-a056-7c794a5b7d53.png)
+>Given that our business problem is to identify patterns in data to advise keywords for a digital marketing campaign, I wanted to dive into age. Age is an important factor when setting campaign parameters. If we were to just look at the mean, we'd be overshooting our target audience because the bulk of those who make under $50K are 23. Using a range of 23 - 45 would provide better results.
+
 
 #### Bar Chart: Salaries by Education Level 
 ![bar chart - salaries by education](https://user-images.githubusercontent.com/105459145/183310369-7c01f603-d065-42aa-8231-69ac1cd04b20.png)
